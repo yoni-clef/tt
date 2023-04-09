@@ -18,7 +18,7 @@ int main()
         }
         else
            {
-            cout << setw (5) << "*" << setw (5);
+            cout <<"hh"<< setw (5) << "*" << setw (5);
         }
     }
 
